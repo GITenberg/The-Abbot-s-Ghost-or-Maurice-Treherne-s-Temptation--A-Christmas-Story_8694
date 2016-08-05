@@ -1,0 +1,35 @@
+_repo: The-Abbot-s-Ghost-or-Maurice-Treherne-s-Temptation--A-Christmas-Story_8694
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alcott, Louisa May
+    aliases:
+    - Alcott, Louisa M. (Louisa May)
+    - Alcott, L. M. (Louisa May)
+    - Barnard, A. M.
+    birthdate: 1832
+    deathdate: 1888
+    gutenberg_agent_id: '102'
+    url: http://www.gutenberg.org/2009/agents/102
+    wikipedia: http://en.wikipedia.org/wiki/Louisa_May_Alcott
+description: ''
+gutenberg_bookshelf: Christmas
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8694'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Forgers -- Fiction'
+- !lcsh 'Christmas stories'
+- !lcc 'PS'
+- !lcsh 'Young men -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Ghost stories'
+- GITenberg
+title: 'The Abbot''s Ghost, or Maurice Treherne''s Temptation: A Christmas Story'
+url: http://www.gutenberg.org/ebooks/8694
